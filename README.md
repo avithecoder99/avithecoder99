@@ -86,8 +86,8 @@ Scikit-learn, NLP, SpaCy
 
 ## Connect With Me
 
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📁 [Resume](#) | 📂 [Portfolio Projects](https://github.com/yourusername?tab=repositories)
+Email: avinash.ba96@gmail.com  
+[LinkedIn] : www.linkedin.com/in/avi-b-5b1390a7
+[Resume](#) | [Portfolio Projects](https://github.com/yourusername?tab=repositories)
 
 
