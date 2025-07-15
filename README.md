@@ -86,7 +86,7 @@ Scikit-learn, NLP, SpaCy
 
 ## Connect With Me
 
-Email: avinash.ba96@gmail.com  
+Email: avi.ba96@gmail.com  
 [LinkedIn] : www.linkedin.com/in/avi-b-5b1390a7
 [Resume](#) | [Portfolio Projects](https://github.com/yourusername?tab=repositories)
 
