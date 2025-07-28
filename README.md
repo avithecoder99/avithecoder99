@@ -7,9 +7,17 @@ Certified by Microsoft & IBM | 6+ Years Experience | Proven $M-Impact AI Solutio
 
 ## Professional Summary
 
-Experienced Data Scientist & ML Engineer with 6+ years delivering AI/ML solutions across insurance, fintech, and healthcare domains. Specialized in Generative AI (LLMs, RAG, Prompt Engineering), predictive modeling, NLP, deep learning (CNN, LSTM), and scalable MLOps. Skilled in Azure ML, AWS, and building real-time AI systems using Python, SQL, Spark, and vector DBs (Pinecone, FAISS). Certified in Azure, Gen AI, and Data Science by Microsoft & IBM. Passionate about turning data into measurable business impact.
+Certified Data Scientist & ML Engineer with 6+ years delivering AI/ML solutions across insurance, fintech, and healthcare domains. Specialized in Generative AI (LLMs, RAG, Prompt Engineering), predictive modeling, NLP, deep learning (CNN, LSTM), and scalable MLOps. Skilled in Azure ML, AWS, and building real-time AI systems using Python, SQL, Spark, and vector DBs (Pinecone, FAISS). Certified in Azure, Gen AI, and Data Science by Microsoft & IBM. Passionate about turning data into measurable business impact.
 
 ---
+
+## Patents & Innovation
+
+I'm currently researching AI security and trust in autonomous systems.
+
+Recently filed a provisional patent for SentraNova — a root-level control framework for agentic AI that enables real-time policy alignment, compliance violation detection, and multi-agent decision oversight.
+
+Additionally, I developed and patented an AI Compliance & Violation Monitoring System that uses retrieval-augmented generation (RAG), chunked vector search, and agentic reasoning to detect policy breaches in unstructured content like emails. This system compares organizational documents and messages using semantic similarity to flag non-compliant behavior — enabling transparent, auditable AI oversight for internal governance.
 
 ## Featured Industry Projects
 
