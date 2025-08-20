@@ -1,6 +1,6 @@
 # Hi, I'm Avinash
 
-Data Scientist | AI/ML Engineer | Gen AI + Azure ML Specialist | 2 * Inventor
+Data Scientist | AI/ML Engineer | Gen AI + Azure ML Specialist | 2 * Inventor |
 Certified by Microsoft & IBM | 6+ Years Experience | Proven $M-Impact AI Solutions  
 
 ---
