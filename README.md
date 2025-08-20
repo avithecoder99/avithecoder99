@@ -25,15 +25,16 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 ## 🚀 Deployed AI/ML Applications (Demo Projects)  
 *(Production-style deployments showcasing end-to-end ML pipelines with Azure ML, FastAPI, Docker, CI/CD, and monitoring)*  
 
-- **[Loan Eligibility Checker](#)** 💳  
+- **[Loan Eligibility Checker](https://loan-eligibility-app-dnd7gde6c5b7acbg.eastus2-01.azurewebsites.net/)** 💳   
    Real-time ML app for loan approval predictions with scalable APIs.  
-   *Tech Stack: Azure ML, XGBoost, FastAPI, Docker, App Service, GitHub Actions*  
+   *Tech Stack: Azure Datbricks, XGBoost, FastAPI, Docker, App Service, Azure kubernetes, GitHub Actions*
+  https://loan-eligibility-app-dnd7gde6c5b7acbg.eastus2-01.azurewebsites.net/
 
-- **[Insurance Risk Predictor](#)** 🛡️  
+- **[Insurance Eligibility Predictor](https://insurance-eligibility-app-e3anayb3g8hubshq.eastus2-01.azurewebsites.net/)** 🛡️  
    Automated risk scoring + eligibility prediction with drift detection & retraining triggers.  
-   *Tech Stack: Azure ML, FastAPI, Docker, App Insights, CI/CD*  
+   *Tech Stack: Azure ML, FastAPI, Docker, App Insights, , Blob Storage, CI/CD*  
 
-- **[Insuracne Chatbot](#)** 🤖  
+- **[Insuracne Chatbot](https://insurance-chatbot-hqhxgcdcbwefeub9.eastus2-01.azurewebsites.net/)** 🤖  
    Conversational AI bot for answerig Insurance Queries.  
    *Tech Stack: FastAPI, Docker, Azure App Service, Application Insights*  
 
@@ -65,9 +66,9 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 ---
 
 ## 📌 Pinned Projects  
-- Loan Eligibility Checker app -  https://loan-eligibility-app-dnd7gde6c5b7acbg.eastus2-01.azurewebsites.net/
-- Insurance Eligibility checker app - https://insurance-eligibility-app-e3anayb3g8hubshq.eastus2-01.azurewebsites.net/
-- Insurance Chatbot - https://insurance-chatbot-hqhxgcdcbwefeub9.eastus2-01.azurewebsites.net/
+- Loan Eligibility Checker app 
+- Insurance Eligibility checker app
+- Insurance Chatbot
 
 ---
 
