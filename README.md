@@ -33,8 +33,8 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
    Automated risk scoring + eligibility prediction with drift detection & retraining triggers.  
    *Tech Stack: Azure ML, FastAPI, Docker, App Insights, CI/CD*  
 
-- **[Healthcare Support Bot](#)** 🤖  
-   Conversational AI bot for healthcare Q&A with secure backend + monitoring.  
+- **[Insuracne Chatbot](#)** 🤖  
+   Conversational AI bot for answerig Insurance Queries.  
    *Tech Stack: FastAPI, Docker, Azure App Service, Application Insights*  
 
 ---
