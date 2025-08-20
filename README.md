@@ -28,7 +28,6 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 - **[Loan Eligibility Checker](https://loan-eligibility-app-dnd7gde6c5b7acbg.eastus2-01.azurewebsites.net/)** 💳   
    Real-time ML app for loan approval predictions with scalable APIs.  
    *Tech Stack: Azure Datbricks, XGBoost, FastAPI, Docker, App Service, Azure kubernetes, GitHub Actions*
-  https://loan-eligibility-app-dnd7gde6c5b7acbg.eastus2-01.azurewebsites.net/
 
 - **[Insurance Eligibility Predictor](https://insurance-eligibility-app-e3anayb3g8hubshq.eastus2-01.azurewebsites.net/)** 🛡️  
    Automated risk scoring + eligibility prediction with drift detection & retraining triggers.  
