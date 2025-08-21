@@ -74,4 +74,4 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 ### ✨ Let’s Connect  
 💼 LinkedIn: https://www.linkedin.com/in/avi-b-engineer99/  
 📧 Email: avi.ba96@gmail.com
-🌐 Portfolio: [Your Website/GitHub Pages if any]  
+🌐 Portfolio: https://website.avitheresearcher.com 
