@@ -55,12 +55,15 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 ---
 
 ## 🛠️ Tech Stack (Core)  
-- **AI/ML**: Scikit-learn, TensorFlow, Hugging Face  
-- **Gen AI**: GPT-4, RAG, LangChain, Prompt Engineering  
+- **AI/ML**: Scikit-learn, TensorFlow, XGBoost, GBM, Random Forest, Decision Trees, PCA, Clustering, Time Series Analysis (ARIMA, Prophet), Forecasting  
+- **Gen AI**: GPT-4, RAG, LangChain, Prompt Engineering, Hugging Face
+- **Statistical Techniques**: Hypothesis Testing, Confidence Intervals, A/B Testing, Uplift Modeling, ROC-AUC, Confusion Matrix, T-Test, Z-Test, ANOVA, Chi-Square Test, Central Limit Theorem, Multi-Armed Bandits,
+                              Sequential Testing, Bayesian Inference.
 - **Cloud/MLOps**: Azure ML, AWS SageMaker, Docker, FastAPI, GitHub Actions, CI/CD  
-- **Databases**: SQL, Pinecone, FAISS, MongoDB  
+- **Databases**: SQL, Pinecone, FAISS, MongoDB, ORACLE. 
 - **Visualization**: Power BI, Tableau, Plotly  
-- **Other**: Git, A/B Testing, Agile  
+- **Platforms & Tools**: Azure ML Studio, Azure Data Factory, Azure Functions, Azure Key Vault, Azure Synapse Analytics, Azure Logic Apps, Azure Data Lake, Azure Purview, Azure OpenAI, Databricks, AWS
+-                    SageMaker, AWS Lambda, AWS Redshift, Jenkins, Excel, SSMS, GitHub, Blob Storage, OpenAI API. 
 
 ---
 
