@@ -25,6 +25,10 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 ## 🚀 Deployed AI/ML Applications (Demo Projects)  
 *(Production-style deployments showcasing end-to-end ML pipelines with Azure ML, FastAPI, Docker, CI/CD, and monitoring)*  
 
+- **[Agentic AI Compliance & Violation Alerting System](https://violation-detection-app.avitheresearcher.com/)** 🛡️  
+  Real-time policy violation monitoring (emails/logs) with live WebSocket alerts and single-container deployment.  
+  *Tech Stack: Agentic AI, FastAPI, React (Vite), WebSockets, Docker, Azure App Service*
+  
 - **[Loan Eligibility Checker](https://loan-eligibility.avitheresearcher.com/)** 💳   
    Real-time ML app for loan approval predictions with scalable APIs.  
    *Tech Stack: Azure Datbricks, XGBoost, FastAPI, Docker, App Service, Azure kubernetes, GitHub Actions*
