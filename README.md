@@ -29,7 +29,7 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
   Real-time policy violation monitoring (emails/logs) with live WebSocket alerts and single-container deployment.  
   *Tech Stack: Agentic AI, FastAPI, React (Vite), WebSockets, Docker, Azure App Service*
   
-- **[PolicyPilot](https://policypilot.avitheresearcher.com/)**
+- **[PolicyPilot](https://policypilot.avitheresearcher.com/)** 
   AI-powered HR/Employee Experience assistant for answering company policy questions with RAG (retrieval-augmented generation).
   *Tech Stack: FastAPI, FAISS, OpenAI GPT-4, PDF Parsing, Docker, Azure App Service, Azure Container Registry*
   
