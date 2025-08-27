@@ -28,7 +28,7 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 - **[Agentic AI Compliance & Violation Alerting System](https://violation-detection-app.avitheresearcher.com/)** 🛡️  
   Real-time policy violation monitoring (emails/logs) with live WebSocket alerts and single-container deployment.  
   *Tech Stack: Agentic AI, FastAPI, React (Vite), WebSockets, Docker, Azure App Service*
-  
+
 - **[PolicyPilot](https://policypilot.avitheresearcher.com/)**  
   AI-powered HR/Employee Experience assistant for answering company policy questions with RAG (retrieval-augmented generation).
   *Tech Stack: FastAPI, FAISS, OpenAI GPT-4, PDF Parsing, Docker, Azure App Service, Azure Container Registry*
@@ -43,7 +43,10 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 
 - **[Insuracne Chatbot](https://insurance-chatbot.avitheresearcher.com)** 🤖  
    Conversational AI bot for answerig Insurance Queries.  
-   *Tech Stack: FastAPI, Docker, Azure App Service, Application Insights*  
+   *Tech Stack: FastAPI, Docker, Azure App Service, Application Insights*
+- **[Flight Path Safety Monitor](https://flight-path-monitoring-app.avitheresearcher.com/)** ✈️  
+   Real-time weather analysis along flight routes with safety alerts & emergency landing recommendations.  
+   *Tech Stack: FastAPI, OpenWeather API, Matplotlib, Docker, Azure App Service, CI/CD*
 
 ---
 
