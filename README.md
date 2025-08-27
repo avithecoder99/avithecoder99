@@ -25,7 +25,7 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 ## 🚀 Deployed AI/ML Applications (Demo Projects)  
 *(Production-style deployments showcasing end-to-end ML pipelines with Azure ML, FastAPI, Docker, CI/CD, and monitoring)*  
 
-- **[Agentic AI Compliance & Violation Alerting System](https://violation-detection-app.avitheresearcher.com/)** 🛡️  
+- **[Agentic AI Compliance & Violation Alerting System](https://violation-detection-app.avitheresearcher.com/)** 🛡️ - **patent protected**
   Real-time policy violation monitoring (emails/logs) with live WebSocket alerts and single-container deployment.  
   *Tech Stack: Agentic AI, FastAPI, React (Vite), WebSockets, Docker, Azure App Service*
 
