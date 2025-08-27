@@ -82,6 +82,9 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 - Loan Eligibility Checker app 
 - Insurance Eligibility checker app
 - Insurance Chatbot
+- Compliance-violation-monitoring-app
+- Flight path safety monitoring app
+- policypilot
 
 ---
 
