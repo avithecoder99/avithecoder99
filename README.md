@@ -59,7 +59,7 @@ Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-gra
 ---
 
 ## 🎓 Certifications  
-- Microsoft: **Azure Data Scientist Associate, AI Fundamentals, Data Fundamentals**  
+- Microsoft: **[Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/avib9/F77C254EA912C51F?sharingId=C4C6946AED934979), [AI Fundamentals](https://learn.microsoft.com/en-us/users/avib9/credentials/38a9de83caaa4aaf), [Data Fundamentals](https://learn.microsoft.com/en-us/users/avib9/credentials/1ACC51A610C2FA74)**  
 - IBM: **AI Engineering, Data Science, Generative AI Specializations**  
 - Innovation Champion – Discover Financial Services  
 
