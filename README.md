@@ -5,7 +5,7 @@
 ---
 
 ## 🔹 Professional Summary  
-Certified Data Scientist & ML Engineer with 6+ years delivering **enterprise-grade AI/ML solutions** across insurance, fintech, and healthcare.  
+Certified Data Scientist, ML & Gen AI Engineer with 7+ years delivering **enterprise-grade AI/ML solutions** across insurance, fintech, and healthcare.  
 - Specialized in **Generative AI (LLMs, RAG, LangChain, Prompt Engineering)**, predictive modeling, NLP, and deep learning.  
 - Skilled in **Azure ML, AWS SageMaker, FastAPI, Docker, CI/CD pipelines**, and building real-time AI systems.  
 - Proven success turning ML into measurable impact — **reducing underwriting time, preventing fraud, lowering readmissions, and boosting revenue.**  
