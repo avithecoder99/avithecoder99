@@ -12,16 +12,16 @@ Certified Data Scientist, ML & Gen AI Engineer with 7+ years delivering **enterp
 
 
 ## 🧠 Patents & Innovation  
-- **SentraNova: Root-Level Governance for Agentic AI** - Patent Pending 
+- **SentraNova: Root-Level Governance for Agentic AI** - Patent Pending  
    *A human-controlled, multi-agent AI governance framework that enables safe, transparent, and accountable decision-making in intelligent systems.*  
 
-- **Agentic Compliance & Violation Alerting System** - Patent Pending  
+- **Agentic Compliance & Violation Alerting System** - Patent Pending    
    *An intelligent, self-monitoring AI framework that detects, analyzes Emails, logs and tickets and alerts policy or ethical violations in real time to ensure compliance*
   
-- **Agentic Data preprocessing and Cleaning Tool** - Patent Pending
+- **Agentic Data preprocessing and Cleaning Tool** - Patent Pending  
    *An autonomous multi-agent AI Framework detects, diagnoses and resolves all kinds of data issues to make data ready for Machine Learning.*
 
-- **Self-Governing Memory** - Patent Pending
+- **Self-Governing Memory** - Patent Pending  
    *An adaptive statistical mechanism that autonomously regulates computational resources and memory behavior through continuous monitoring, learning, and self-optimization.*
   
 
