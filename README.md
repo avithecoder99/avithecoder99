@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avinash Bellamkonda
 
-**Data Scientist | AI/ML Engineer | Gen AI + Azure ML Specialist | 2× Inventor | Microsoft & IBM Certified | $M-Impact AI Solutions**
+**Gen AI Engineer | Data Scientist | AI/ML Engineer | 4 × Inventor | Microsoft & IBM Certified | $M-Impact AI Solutions**
 
 ---
 
@@ -9,23 +9,30 @@ Certified Data Scientist, ML & Gen AI Engineer with 7+ years delivering **enterp
 - Specialized in **Generative AI (LLMs, RAG, LangChain, Prompt Engineering)**, predictive modeling, NLP, and deep learning.  
 - Skilled in **Azure ML, AWS SageMaker, FastAPI, Docker, CI/CD pipelines**, and building real-time AI systems.  
 - Proven success turning ML into measurable impact — **reducing underwriting time, preventing fraud, lowering readmissions, and boosting revenue.**  
-- **Inventor of 2 provisional patents** in AI governance and compliance automation.  
+- **Inventor with 4 pending patents** in AI Governance and Agentic AI.
+- **Research on Generative AI, Agentic AI and Computational Systems** 
 
 ---
 
 ## 🧠 Patents & Innovation  
-- **SentraNova: Root-Level Governance for Agentic AI** — Provisional Patent  
-   *Control framework for multi-agent LLMs with real-time oversight, compliance monitoring, and interruptibility.*  
+- **SentraNova: Root-Level Governance for Agentic AI** - Patent Pending 
+   *A human-controlled, multi-agent AI governance framework that enables safe, transparent, and accountable decision-making in intelligent systems.*  
 
-- **Agentic Compliance & Violation Alerting System** — Provisional Patent  
-   *Uses GPT-4 + RAG + vector search to detect policy violations in unstructured enterprise data (emails, logs, docs).*  
+- **Agentic Compliance & Violation Alerting System** - Patent Pending  
+   *An intelligent, self-monitoring AI framework that detects, analyzes Emails, logs and tickets and alerts policy or ethical violations in real time to ensure compliance*
+  
+- **Agentic Data preprocessing and Cleaning Tool** - Patent Pending
+   *An autonomous multi-agent AI Framework detects, diagnoses and resolves all kinds of data issues to make data ready for Machine Learning.*
 
+- **Self-Governing Memory** - Patent Pending
+   *An adaptive statistical mechanism that autonomously regulates computational resources and memory behavior through continuous monitoring, learning, and self-optimization.*
+  
 ---
 
 ## 🚀 Deployed AI/ML Applications (Demo Projects)  
 *(Production-style deployments showcasing end-to-end ML pipelines with Azure ML, FastAPI, Docker, CI/CD, and monitoring)*  
 
-- **[Agentic AI Compliance & Violation Alerting System](https://violation-detection-app.avitheresearcher.com/)** 🛡️ - **patent protected**  
+- **[Agentic AI Compliance & Violation Alerting System](https://violation-detection-app.avitheresearcher.com/)** - **patent pending**  
   Real-time policy violation monitoring (emails/logs) with live WebSocket alerts and single-container deployment.  
   *Tech Stack: Agentic AI, FastAPI, React (Vite), WebSockets, Docker, Azure App Service*
 
@@ -44,6 +51,7 @@ Certified Data Scientist, ML & Gen AI Engineer with 7+ years delivering **enterp
 - **[Insuracne Chatbot](https://insurance-chatbot.avitheresearcher.com)** 🤖  
    Conversational AI bot for answerig Insurance Queries.  
    *Tech Stack: FastAPI, Docker, Azure App Service, Application Insights*
+  
 - **[Flight Path Safety Monitor](https://flight-path-monitoring-app.avitheresearcher.com/)** ✈️  
    Real-time weather analysis along flight routes with safety alerts & emergency landing recommendations.  
    *Tech Stack: FastAPI, OpenWeather API, Matplotlib, Docker, Azure App Service, CI/CD*
@@ -51,10 +59,14 @@ Certified Data Scientist, ML & Gen AI Engineer with 7+ years delivering **enterp
 ---
 
 ## 💼 Featured Industry Projects  
-- **Insurance Risk & Eligibility Prediction** – Automated underwriting with Gen AI, reducing time by 35% and saving $750K/year.  
-- **Loan Approval & Fraud Detection** – Improved accuracy by 15% and prevented $220K in fraud using ML segmentation.  
-- **Patient Risk Forecasting** – Reduced readmissions by 22% (~$480K savings) using LSTM + time-series forecasting.  
-- **Customer Cross-Sell Engine** – Boosted revenue by $280K/month through ML-powered targeting.  
+- **Insurance RAG Chatbot** – GPT-4 chatbot using RAG and FAISS for document aware answers, improving customer experience, satisfaction, and trust which ultimately reduced response time by 35% and saved $750K/year.  
+- **Loan Approval Decision Making System** – Created Loan Approval Decision making system which improved approval accuracy by 15% and prevented $220K in fraud using ML segmentation.  
+- **Predictive Health Risk & Readmission AI** – Built Health and Readmisison risk prediction system that reduced readmissions by 22% (~$480K savings) using LSTM + time-series forecasting.   
+
+---
+
+## Research & Publications
+- **[Bellamkonda, A. (2025). SentraNova: A Governance Framework for Safe, Transparent, and Controllable Generative and Agentic AI Systems]([https://doi.org/10.5281/zenodo.17461165](https://www.researchgate.net/publication/396969498_SentraNova_A_Governance_Framework_for_Safe_Transparent_and_Controllable_Generative_and_Agentic_AI_Systems)**
 
 ---
 
