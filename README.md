@@ -78,8 +78,7 @@ Certified Data Scientist, ML & Gen AI Engineer with 7+ years delivering **enterp
 - **Cloud/MLOps**: Azure ML, AWS SageMaker, Docker, FastAPI, GitHub Actions, CI/CD  
 - **Databases**: SQL, Pinecone, FAISS, MongoDB, ORACLE. 
 - **Visualization**: Power BI, Tableau, Plotly  
-- **Platforms & Tools**: Azure ML Studio, Azure Data Factory, Azure Functions, Azure Key Vault, Azure Synapse Analytics, Azure Logic Apps, Azure Data Lake, Azure Purview, Azure OpenAI, Databricks, AWS
--                    SageMaker, AWS Lambda, AWS Redshift, Jenkins, Excel, SSMS, GitHub, Blob Storage, OpenAI API. 
+- **Platforms & Tools**: Azure ML Studio, Azure Data Factory, Azure Functions, Azure Key Vault, Azure Synapse Analytics, Azure Logic Apps, Azure Data Lake, Azure Purview, Azure OpenAI, Databricks, AWS.
 
 
 ## 📌 Pinned Projects  
