@@ -3,7 +3,7 @@
 **Gen AI Engineer | Data Scientist | AI/ML Engineer | 4 × Inventor | AI Researcher | Microsoft & IBM Certified | $M-Impact AI Solutions**
 
 ## 🔹 Professional Summary  
-Certified Data Scientist, ML & Gen AI Engineer with 7+ years delivering **enterprise-grade AI/ML solutions** across insurance, fintech, and healthcare.  
+Certified Data Scientist, ML & Gen AI Engineer with 7+ years delivering **enterprise-grade AI/ML solutions** across Insurance, Banking, and Healthcare.  
 - Specialized in **Generative AI (LLMs, RAG, LangChain, Prompt Engineering)**, predictive modeling, NLP, and deep learning.  
 - Skilled in **Azure ML, AWS SageMaker, FastAPI, Docker, CI/CD pipelines**, and building real-time AI systems.  
 - Proven success turning ML into measurable impact - **reducing underwriting time, preventing fraud, lowering readmissions, and boosting revenue.**  
